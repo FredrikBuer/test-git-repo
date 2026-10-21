@@ -33,3 +33,5 @@ To create a repo from the localgit repo, you can use:
 '--source=.' to specify that the current folder will be used.
 '--private'/'--public' to specify if the repo is publicly accessible.
 And '--push' to immediatly push local commits and verify that connections works.
+
+## Merge Conflicts
