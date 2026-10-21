@@ -37,3 +37,5 @@ And '--push' to immediatly push local commits and verify that connections works.
 ## Merge Conflicts
 
 Git is not a complete project management tool.
+
+Changes may be duplicated.
