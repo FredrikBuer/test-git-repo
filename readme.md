@@ -15,3 +15,11 @@ You can use 'git add filepath' to stage the file(s) at the filepath.
 Staging a folder will stage all files inside it.
 
 3. To commit the staged files, we use 'git commit'. Every commit needs a corresponding message. We can use 'git commit -m "message"' to specify a message for the commit.
+
+## Syncing with coworkers
+
+Git collaboration is don by connectiong a remote repository and pushing (uploading changes) and pulling from (downloading changes) it.
+
+'git push' to push your local commits to the remote.
+
+'git pull' to pull remote commits to local.
