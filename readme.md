@@ -13,3 +13,5 @@ You can use 'git init' to create a local git repo.
 You can use 'git add filepath' to stage the file(s) at the filepath.
 
 Staging a folder will stage all files inside it.
+
+3. To commit the staged files, we use 'git commit'. Every commit needs a corresponding message. We can use 'git commit -m "message"' to specify a message for the commit.
