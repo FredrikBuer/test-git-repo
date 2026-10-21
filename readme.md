@@ -23,3 +23,13 @@ Git collaboration is don by connectiong a remote repository and pushing (uploadi
 'git push' to push your local commits to the remote.
 
 'git pull' to pull remote commits to local.
+
+## Remote setup
+
+You can configure a remote connection to github using the gh cli
+
+To create a repo from the localgit repo, you can use:
+'gh repo create' along with the flags:
+'--source=.' to specify that the current folder will be used.
+'--private'/'--public' to specify if the repo is publicly accessible.
+And '--push' to immediatly push local commits and verify that connections works.
